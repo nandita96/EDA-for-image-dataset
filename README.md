@@ -14,6 +14,9 @@ Therefore, this repository have few steps for image processing carried out by me
 6. png to jpg conversion
 7. tif to jpg conversion
 8. Rename of image_name in folder
+9. Log transformation
+10. Image sharpening
+
 
 I hope this would help beginner to get idea about few steps.
 Thank you
